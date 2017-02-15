@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wypełnij formularz</string>
+    <string name="name_input">Imie i nazwisko</string>
+    <string name="submit_button">Zostaw swoje dane</string>
+    <string name="email_input">Adres e-mail</string>
+    <string name="listAll_button">List all</string>
+    <string name="interest_eiz_checkbox">Wydziałem Ekonomii i Zarządzania</string>
+    <string name="interest_wpia_checkbox">Wydziałem Prawa i Administracji</string>
+    <string name="address_input">Miasto/Dzielnica</string>
+    <string name="phone_input">Numer telefonu</string>
+    <string name="interest_pbpz_checkbox">Profesjonalnym badaniem predyspozycji zawodowej</string>
+    <string name="interest_sp_checkbox">Studiami podyplomowymi</string>
+    <string name="interest_m_checkbox">Wydziałem Medycznym</string>
+    <string name="checkbox_description_text">Będziemy Cię informować m.in. o:</string>
+    <string name="checkbox_header_text">Będziemy Cię informować m.in. o:</string>
+    <string name="display_message_text">Dziękujęmy za pozostawienie danych kontaktowych\"</string>
+    <string name="display_back_button">Wróć do formularza</string>
+    <string name="agreement_1">Wyrażam zgodę na przetwarzanie moich danych osobowych w celach marketingowych przez Uczelnię Łazarskiego z siedzibą w Warszawie ul. Świeradowska 43 zgodnie z art. 23 ust.1 pkt 1 ustawy z dnia 29 sierpnia 1997 roku o ochronie danych osobowych (Dz.U.2015.2135).</string>
+    <string name="agreement_2">Wyrażam zgodę na otrzymywanie od Uczelni Łazarskiego z siedzibą w Warszawie ul. Świeradowska 43 informacji handlowych drogą elektroniczną zgodnie z ustawą z dnia 18.07.2002 r. o świadczeniu usług drogą elektroniczną (Dz.U 2013.1422).</string>
+    <string name="agreement_4">Wyrażam zgodę na udostępnienie przez Uczelnię Łazarskiego z siedzibą w Warszawie ul. Świeradowska 43, moich danych osobowych osobom trzecim w celu przekazywania przez te osoby oferty edukacyjnej Uczelni Łazarskiego.</string>
+    <string name="agreement_3">Wyrażam zgodę na otrzymywanie telefonicznych połączeń przychodzących inicjowanych przez Uczelnię Łazarskiego z siedzibą w Warszawie ul. Świeradowska 43 w celach handlowych i marketingowych zgodnie z art. 172 ustawy z dnia 6 lipca 2004 r. prawo telekomunikacyjne (Dz.U.2014.243).</string>
+    <string name="header">Skontaktujemy się z Tobą i powiemy dlaczego warto u nas studiować.</string>
+</resources>
